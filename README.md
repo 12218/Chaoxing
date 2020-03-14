@@ -4,7 +4,7 @@
 
 （1）	打开超星学习通“学生学习页面”，在任意一道题目上方单击右键，点击“查看框架的源代码”。
 
-![title](image/pic1.png)
+![Image of Yaktocat](https://liboran.github.io/chaoxing/pic1.png)
 
 （2）	在新打开的页面中，“Ctrl + A”全选框架源代码，并放入“超星学习通搜题”程序的输入框内。
 
