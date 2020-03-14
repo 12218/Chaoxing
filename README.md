@@ -8,7 +8,7 @@
 
 （2）	在新打开的页面中，“Ctrl + A”全选框架源代码，并放入“超星学习通搜题”程序的输入框内。
 
-![title](image/pic2.png)
+<img src="https://liboran.github.io/chaoxing/pic2.png">
 
 （3）粘贴网页源代码如下图。点击“搜题”即可搜索。
 
