@@ -12,7 +12,7 @@
 
 （3）粘贴网页源代码如下图。点击“搜题”即可搜索。
 
-![title](image/pic3.png)
+<img src="https://liboran.github.io/chaoxing/pic3.png">
 
 （4）其中“Q”代表匹配出的题目，“A”是正确答案。
 
@@ -22,7 +22,7 @@
 
 （2）如下图，点击“搜题”即可搜索。
 
-![title](image/pic4.png)
+<img src="https://liboran.github.io/chaoxing/pic4.png">
 
 ## 3 其他功能
 
