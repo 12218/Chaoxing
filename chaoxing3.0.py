@@ -121,7 +121,7 @@ def clear_function():
     output_text.delete(1.0, 'end')
 
 def open_browser(self):
-    url = 'https://github.com/12218/Chaoxing'
+    url = 'https://liboran.github.io/chaoxing/statement.html'
     webbrowser.open(url) 
 
 def keep_front(self):
