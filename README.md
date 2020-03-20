@@ -24,7 +24,17 @@
 
 <img src="https://github.com/12218/Chaoxing/blob/master/image/pic4.jpg">
 
-## 3 其他功能
+## 3 测试搜索模式
+
+（2020.3.20日新增功能）
+
+（1）将测试页的网页源代码复制粘贴到输入框。
+
+（2）如下图，点击“搜题”即可将网页源代码中的正确答案匹配出来。
+
+<img src="https://github.com/12218/Chaoxing/blob/master/image/pic5.png">
+
+## 4 其他功能
 
 ### 保持最前端功能
 
